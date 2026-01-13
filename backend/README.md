@@ -1,7 +1,7 @@
-<h1>📦 Product API – Django REST Framework + PostgreSQL</h1>
+<h1>📦 POS System – Django REST Framework + PostgreSQL</h1>
 
 <p>
-A complete backend API for managing products using Django, DRF, PostgreSQL, filtering, searching,
+A complete POS system for managing products using Django, DRF, PostgreSQL, filtering, searching,
 pagination, rate limiting, and Swagger documentation.
 </p>
 
