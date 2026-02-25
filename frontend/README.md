@@ -1,4 +1,4 @@
-# Product API Frontend
+# POS System- Frontend
 
 [![React](https://img.shields.io/badge/React-19.2.1-blue.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-7.2.4-646CFF.svg)](https://vitejs.dev/)
